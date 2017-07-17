@@ -160,7 +160,7 @@ blockquote cite:after,
 blockquote footer:after{content:' ~'}
 img{max-width:100%;height:auto;vertical-align:middle;border:0}
 ::-moz-selection{color:#fff;background-color:#a4b4c4}
-::selection{color:#fff;background-color:#a4b4c4}
+::selection{color:#fff;background-color:#0097C9}
 iframe{border:0;max-width:100%}
 li,
 ul{list-style:none;margin:0;padding:0}

@@ -37,6 +37,10 @@ define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+/** 修改wordpress根目录为相对路径 */
+define('WP_HOME', '');
+define('WP_SITEURL', '');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
